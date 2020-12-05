@@ -1,0 +1,22 @@
+body {
+    background-color: #d8d8d8 !important;
+}
+.content{
+    display: flex !important;
+    justify-content: center !important;
+}
+.chrome-picker{
+    margin: 2% !important;
+    width: 500px !important;
+}
+@media (max-width: 600px){
+    .chrome-picker {
+        width: 90% !important;
+    }
+}
+@media (max-width: 1000px) and (orientation: landscape){
+    .chrome-picker {
+        width: 40% !important;
+        margin: 0 !important;
+    }
+}

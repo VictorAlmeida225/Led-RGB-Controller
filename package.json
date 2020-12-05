@@ -1,0 +1,29 @@
+{
+  "name": "Led-RGB-Controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^10.0.3",
+    "node-ble": "^1.2.0",
+    "react": "^17.0.1",
+    "react-color": "^2.19.3",
+    "react-dom": "^17.0.1",
+    "reactcss": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorAlmeida225/Led-RGB-Controller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorAlmeida225/Led-RGB-Controller/issues"
+  },
+  "homepage": "https://github.com/VictorAlmeida225/Led-RGB-Controller#readme"
+}
